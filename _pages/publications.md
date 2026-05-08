@@ -7,10 +7,16 @@ nav: true
 nav_order: 1
 ---
 
+<style>
+  div.pub-entry {
+    margin-bottom: 1.5rem;
+  }
+</style>
+
 <br clear="all">
 \* indicates equal contribution <br>
 
-<div class="">
+<div class="pub-entry">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
@@ -35,7 +41,7 @@ nav_order: 1
 </table>
 </div>
 
-<div class="">
+<div class="pub-entry">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
