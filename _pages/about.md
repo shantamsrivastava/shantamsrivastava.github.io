@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>338X Davis Hall</p>
     <p>Buffalo, NY</p>
-    <p>Office: (716) 645-8860
+    <p>Office: (716) 645-8860</p>
     <p>ss693@buffalo.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
