@@ -9,7 +9,7 @@ nav_order: 1
 
 <style>
   div.pub-entry {
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
   }
 </style>
 
