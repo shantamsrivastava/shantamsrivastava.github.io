@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 <br clear="all">
-&ast; indicates equal contribution <br>
+\* indicates equal contribution <br>
 
 <div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
