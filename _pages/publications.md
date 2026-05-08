@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 <br clear="all">
-* indicates equal contribution <br>
+&ast; indicates equal contribution <br>
 
 <div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
@@ -56,7 +56,6 @@ nav_order: 1
             <a href="https://cse.buffalo.edu/~doermann/">David Doermann, </a>
             <a href="https://gong-xuan.github.io/">Xuan Gong</a><br>
             <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em> <br>
-            <br>
         </p>
     </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>338X Davis Hall</p>
     <p>Buffalo, NY</p>
+    <p>Office: (716) 645-8860
     <p>ss693@buffalo.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,8 +28,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Doctoral student in the Department of [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University at Buffalo, SUNY](https://www.buffalo.edu/), advised by [Dr. Mingchen Gao](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/gao-mingchen.detail.html). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interest is focused on Computer Vision and Representation Learning, emphasising on improving the fidelity of multimodal downstream tasks. I enjoy diving deep into the nitty-gritties of deep neural architectures and understand key weaknesses. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before this, I was an MS CS student at SUNY Buffalo during which I discovered my passion for research and thus transferred to a PhD. I also enjoy tinkering with locally hosted LLMs and find intellectual fulfillment in reading systems ML papers like [Flash Attention](https://arxiv.org/pdf/2205.14135)
+
+**I am always looking for collaborators, please feel free to reach out!**
+
+
+
