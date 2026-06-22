@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-22'
 papers:
   UXG7qiYAAAAJ:IjCSPb-OGe4C:
     citations: 0
@@ -10,6 +10,6 @@ papers:
     title: 'FairLLaVA: Fairness-Aware Parameter-Efficient Fine-Tuning for Large Vision-Language Assistants'
     year: '2026'
   UXG7qiYAAAAJ:u5HHmVD_uO8C:
-    citations: 0
+    citations: 1
     title: 'CWCD: Category-Wise Contrastive Decoding for Structured Medical Report Generation'
     year: '2026'
